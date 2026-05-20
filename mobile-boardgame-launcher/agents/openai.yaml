@@ -1,0 +1,15 @@
+interface:
+  display_name: Mobile Boardgame Launcher
+  short_description: Plan, build, automate repos, verify, and launch lightweight mobile board games
+    for Google Play.
+  icon: dice-5
+  brand_color: '#4F46E5'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
