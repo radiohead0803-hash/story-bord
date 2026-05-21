@@ -1,0 +1,3 @@
+interface:
+  display_name: "Reseller Factory OS"
+  short_description: "AI factory operating system for reseller system planning, build, audit, proof, GitHub, and Railway deployment."
