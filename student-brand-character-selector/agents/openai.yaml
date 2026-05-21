@@ -1,0 +1,5 @@
+interface:
+  display_name: Student Brand Character Selector
+  short_description: Select and validate Korean student-goods store names, mascots, and Claude Design briefs.
+  icon: assets/icon.svg
+  accent_color: '#7C3AED'
